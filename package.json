@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node ./src/index.ts",
-    "build": "rollup -c",
+    "build": "rollup -c rollup.config.ts",
     "start": "node index.js",
     "lint": "eslint --fix"
   },
