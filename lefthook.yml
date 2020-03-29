@@ -8,6 +8,3 @@ pre-commit:
     eslint:
       glob: "*.{js,ts}"
       run: yarn lint {staged_files}
-    rollup-build:
-      glob: "*.{js,ts}"
-      run: yarn build && git add index.js
