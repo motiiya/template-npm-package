@@ -1,8 +1,30 @@
-<h2 align="center">example</h2>
+# example
+description
 
-<p align="center">description</p>
+[![npm](https://img.shields.io/npm/v/motiiya/example?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/motiiya/example)
 
-<div align="center">
-<a href="https://gitmoji.carloscuesta.me"><img src="https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=flat-square"alt="Gitmoji"></a>
-<a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
-</div>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=flat-square)](https://gitmoji.carloscuesta.me)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+# Usage ✏️
+
+# Contribution 👨‍💻
+
+## Create environment
+
+```yarn```
+
+```yarn dev```
+
+## Build
+
+```yarn build```
+
+```yarn start```
+
+## Gitmoji
+
+Emoji template:
+
+https://gitmoji.carloscuesta.me/
